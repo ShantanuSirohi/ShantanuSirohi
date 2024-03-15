@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ShantanuSirohi](https://github.com/ShantanuSirohi)
 
-- 📫 How to reach me **gautam.hice@gmail.com**
+- 📫 How to reach me **shantanusirohi.dev@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1msqir6bktL0F3yyRbU-qbYJKcs0GXQB0/view?usp=sharing](https://drive.google.com/file/d/1msqir6bktL0F3yyRbU-qbYJKcs0GXQB0/view?usp=sharing)
 
