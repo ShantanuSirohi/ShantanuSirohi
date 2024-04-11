@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shantanu Sirohi</h1>
 <h3 align="center">👨‍💻 Full stack Java Developer 🌐</h3>
 
-- 🔭 I’m currently working on [ContactWise](https://github.com/ShantanuSirohi/CONTACTWisehttps://github.com/ShantanuSirohi/CONTACTWise)
+- 🔭 I’m currently working on [gourme.](https://github.com/ShantanuSirohi/gourme-delivery-platform)
 
 - 🌱 I’m currently learning **SpringBoot**
 
