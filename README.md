@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [gourme.](https://github.com/ShantanuSirohi/gourme-delivery-platform)
 
-- 🌱 I’m currently learning **SpringBoot**
+- 🌱 I’m currently learning **aws**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ShantanuSirohi](https://github.com/ShantanuSirohi)
 
